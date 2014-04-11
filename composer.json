@@ -1,0 +1,18 @@
+{
+    "config":{
+        "cache-files-ttl": 0
+    },
+    "homepage": "",
+    "repositories": [
+
+    ],
+    "require": {
+        "php": ">=5.3.3",
+        "zendframework/zendframework": "~2",
+        "zendframework/zend-developer-tools": "~0",
+        "kriswallsmith/assetic": "~1",
+        "rwoverdijk/assetmanager": "~1",
+        "evandotpro/edp-module-layouts": "dev-master",
+        "doctrine/doctrine-orm-module": "*",
+    }
+}
